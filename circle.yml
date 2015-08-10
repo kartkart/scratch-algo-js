@@ -1,0 +1,3 @@
+test:
+  override:
+    - mocha ./Rotation/tests.js
