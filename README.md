@@ -1,6 +1,7 @@
 # scratch-algo-js
 
 This repository is simply a new, more nerdish clone of leetcode. There are simple few differences to leetcode, here they are;
+
 1. More nerdish.
 2. If you prefer to run tests through circleci, then your solutions is open source by concept.
 3. If you like you can clone the project to your computer and develop solutions with your comfortable IDE.
