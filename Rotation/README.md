@@ -1,4 +1,4 @@
-Given two string s1 and s2 how will you check if s1 is a rotated version of s2?
+Given two strings s1 and s2 how will you check if s1 is a rotated version of s2?
 
 #### Example:
 
