@@ -1,8 +1,11 @@
 Solution = (function() {
   return {
     isRotation: function(str1, str2) {
-      //your solution goes here
-      throw 'missing implementation';
+      if(str1 == '' || str2 == '') {
+        return false;
+      }
+      
+      return (str1+str1).contains(str2);
     }    
   }
 }());
